@@ -1,6 +1,6 @@
 # Cool Big Text App with Vue js and figlet
 
-###Demo
+### Demo
 
 > [CoolBigText demo](https://cool-big-text.netlify.com)
 
